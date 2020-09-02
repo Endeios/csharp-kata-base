@@ -1,0 +1,5 @@
+app/obj/*
+app/bin/*
+app.test/obj/*
+app.test/bin/*
+.vscode/*
