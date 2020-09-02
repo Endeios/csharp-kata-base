@@ -1,6 +1,6 @@
-# CSharp Carpaccio
+# CSharp Kata starter
 
-Is [elephant carpaccio](https://docs.google.com/document/d/1TCuuu-8Mm14oxsOnlk8DqfZAA1cvtYu9WGv67Yj_sSk/pub) in C#!
+Is A kata starter
 
 ## How I like to start a C# Kata
 
