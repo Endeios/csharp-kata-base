@@ -53,7 +53,7 @@ dotnet add package FluentAssertions
 ```csharp
 ...
 using FakeItEasy;
-using NUnit; 
+using NUnit.Framework; 
 using FluentAssertions;
 ...
 ```
